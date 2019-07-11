@@ -887,6 +887,7 @@ h6 {
   left: 0;
   right: 0;
   transition: 0.2s;
+  max-height: 250px; 
 }
 
 #team .member .member-info-content {
