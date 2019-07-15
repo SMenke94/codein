@@ -527,6 +527,10 @@ h6 {
   transition: all 0.3s ease-in-out;
 }
 
+.box-margin {
+  margin-left: 15px;
+}
+
 #services .box:hover {
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
@@ -540,7 +544,7 @@ h6 {
 
 #services .icon {
   position: absolute;
-  left: -10px;
+  left: 10px;
   top: calc(50% - 32px);
 }
 
