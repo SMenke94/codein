@@ -908,7 +908,18 @@ h6 {
   transition: 0.4s;
 }
 
+#team .member:active .member-info {
+  background: rgba(227,47,129,0.7);
+  opacity: 1;
+  transition: 0.4s;
+}
+
 #team .member:hover .member-info-content {
+  margin-top: 0;
+  transition: margin 0.4s;
+}
+
+#team .member:active .member-info-content {
   margin-top: 0;
   transition: margin 0.4s;
 }
