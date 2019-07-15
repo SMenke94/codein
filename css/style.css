@@ -393,6 +393,10 @@ h6 {
   width: 50%;
 }
 
+.section-header-wide p {
+  width: 70% 
+}
+
 /* Section with background
 --------------------------------*/
 
